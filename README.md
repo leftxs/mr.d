@@ -1,5 +1,3 @@
-
-
 # mr.docs
 
 mr.docs is a [Docker container](https://docker.com "Homepage of docker"), which can help you with testing documentation written in [Sphinx](http://sphinx-doc.org/). 
