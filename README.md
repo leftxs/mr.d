@@ -1,5 +1,4 @@
 
-[![Docker Repository on Quay.io](https://quay.io/repository/tiramisu/mr.docs/status "Docker Repository on Quay.io")](https://quay.io/repository/tiramisu/mr.docs)
 
 # mr.docs
 
@@ -30,7 +29,7 @@ Full documentation for end users can be found in the "docs" folder.
 
 Pull the image:
 
-    docker pull quay.io/tiramisu/mr.docs
+    docker pull leftxs/mr.d
 
 
 ## Contribute
